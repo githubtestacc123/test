@@ -8,10 +8,7 @@ int main() {
 
 	box1.setWidth(2.0).setLength(2.0);
 
-
-
-
-	cout << Rectangle::getNumRectangles() << endl;		//static function call
+//deleted line below
 
 
 
